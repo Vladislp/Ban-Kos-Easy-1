@@ -8,6 +8,11 @@ First repo commits
 
 ![image](https://github.com/user-attachments/assets/02d1347e-ef03-4477-bd79-e194a00bfc14)
 
+First repo issues
+
+![image](https://github.com/user-attachments/assets/e87feb3d-e95a-45f5-966c-ab6d9d2db5c9)
+
+
 
 ## Table of Contents
 
