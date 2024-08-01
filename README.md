@@ -27,8 +27,8 @@ First repo issues
 
 1. **Clone the repository:**
     ```sh
-    git clone [<repository-url>](https://github.com/Vladislp/Ban-Kos-Easy-1.git)
-    cd <repository-directory>
+    git clone https://github.com/Vladislp/Ban-Kos-Easy-1.git
+    cd /Ban-Kos-Easy-1
     ```
 
 2. **Install dependencies:**
@@ -81,6 +81,15 @@ MONGODB_URI=mongodb://<username>:<password>@<cluster-url>/<database>?retryWrites
 
 ###########################################################################################################
 
+1) When cluster is ready, you should head to "Connect" section.
+![1](https://github.com/user-attachments/assets/785b0f55-9c80-4559-a6e6-6357b71b4dfc)
+2) Choose "Drivers"
+![2](https://github.com/user-attachments/assets/98b60839-231a-434c-9d1c-26c2d437bfbd)
+3) Under "Add your connection string into your application code" you will see you'r connection string to your MongoDB.
+![3](https://github.com/user-attachments/assets/b769f46d-01f6-4b29-bbe3-0f5acaa52393)
+4) Cloned project SHOULD NOT have .env file inside root folder. Create it and put inside your .env file.
+
+        MONGODB_URI="connection string"
 ## Usage
 
 1. **Start the server:**
