@@ -77,7 +77,7 @@ MONGODB_URI=mongodb://<username>:<password>@<cluster-url>/<database>?retryWrites
 
 ###########################################################################################################
 
-### If my .env is required, i can provide for you on requiest. Sharing somehow online is ... bad :)
+### If my .env is required, i can provide for you on request. Sharing somehow online is ... bad :)
 
 ###########################################################################################################
 
